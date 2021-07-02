@@ -1,0 +1,6 @@
+// A la suite de l'override initial
+
+TextView txtHello = findViewById(R.id.txtMessage); // Avoir cree au prealable l'uiElement txtView
+txtHello.setText("Hello"); // Change le texte du txtView
+7:30
+ 
